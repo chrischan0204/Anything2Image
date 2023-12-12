@@ -1,0 +1,16 @@
+diffusers
+torch==1.13
+torchvision==0.14.0
+torchaudio==0.13.0
+pytorchvideo
+timm==0.6.7
+ftfy
+regex
+einops
+fvcore
+decord==0.6.0
+soundfile
+transformers
+gradio
+fire
+accelerate
